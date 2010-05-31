@@ -10,4 +10,8 @@ public class AClass {
 	public void AMethod() {
 		
 	}
+	
+	public void AnotherMethod() {
+		
+	}
 }
